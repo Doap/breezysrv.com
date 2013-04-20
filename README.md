@@ -14,4 +14,6 @@ deployed to dev.breezysrv.com > 54.241.136.144
 *****
 mike please create an A record
 breezysrv.com 54.241.136.144
+also need 
+info@breezysrv.com group please
 *****
